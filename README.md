@@ -24,24 +24,32 @@ It simulates a real-world retail analytics system designed to measure and improv
 
 ## 🧠 Business Problem
 
-Retail leadership lacked visibility into:
+Chaiiwala leadership lacked visibility into:
 
 * Customer experience across stores in UK
 * Service quality variation by region
 * Operational issues (stock, seating, cleanliness)
 * Relationship between customer experience and revenue
 * Store-level performance accountability
+* Consolidate customer feedback data
+* Identify operational weaknesses at store level
+* Connect customer experience to revenue impact
+* Prioritise improvement actions effectively
 
 ---
 
 ## 🎯 Objective
 
-To design a BI (Business Intelligence) system that answers:
+To design a unified BI (Business Intelligence) system that answers:
 
-* Which stores provide the best/worst customer experience?
-* What operational factors impact performance?
+* Aggregates multi-store feedback data
+* Calculates Customer Experience Index (CXI)
+* Links CXI with revenue performance
 * Does CXI (Customer Experience Index) impact revenue?
+* What operational factors impact performance?
+* Identifies underperforming stores and regions
 * Which regions require intervention?
+* Provides actionable recommendations
 * What actions should management take?
 
 ---
