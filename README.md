@@ -1,6 +1,6 @@
 ## 🟤 Project Title
 
-**Chaiiwala -- Customer Experience Business Intelligence Platform**
+**Chaiiwala -- Customer Experience Business Intelligence Platform & Feedback Integrity Platform **
 
 ### Introduction
 
