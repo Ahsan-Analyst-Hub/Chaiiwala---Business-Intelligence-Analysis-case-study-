@@ -114,8 +114,19 @@ This project demonstrates:
 * Executive-level dashboard design
 * Business storytelling through data
 
+---
+
+## Author
+- Ahsan ul haq
+
+## License
+- This project is intended for educational and portfolio purposes.
+
+---
+
 ## Disclaimer:
-Disclaimer: This is an independent portfolio project created for educational and demonstration purposes. The dashboard, data model, and analytics solution were designed by the author. 
+
+This is an independent portfolio project created for educational and demonstration purposes. The dashboard, data model, and analytics solution were designed by the author. 
 The dataset is synthetically generated to simulate realistic retail operations and customer feedback. It does not contain proprietary or confidential data from Chaiiwala, and the company has not endorsed or commissioned this project.
 
 ---
