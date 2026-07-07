@@ -246,7 +246,7 @@ This project demonstrates practical experience in:
 * Customer Experience Analytics
 * Data Quality & Integrity Monitoring
 * Business Intelligence Solution Design
-* Prompt Engnieering using AI
+* Prompt Engineering using AI
 
 ---
 
