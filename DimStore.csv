@@ -1,0 +1,115 @@
+StoreID,Store Name,City,Region
+1,Acton,London,London
+2,Barking,London,London
+3,Bethnal Green,London,London
+4,Brent Cross,London,London
+5,Brick Lane,London,London
+6,Canning Town,London,London
+7,Dalston,London,London
+8,Ealing,London,London
+9,Feltham,London,London
+10,Gallions Reach,London,London
+11,Gants Hill,London,London
+12,Green Street,London,London
+13,Greenford,London,London
+14,Hammersmith,London,London
+15,Harrow,London,London
+16,Holborn,London,London
+17,Hounslow West,London,London
+18,Ilford Lane,London,London
+19,Kilburn,London,London
+20,Kingsbury,London,London
+21,Knightsbridge,London,London
+22,Norbury,London,London
+23,Park Royal,London,London
+24,Shepherds Bush,London,London
+25,Tooting,London,London
+26,Walthamstow,London,London
+27,Wembley,London,London
+28,Wood Green,London,London
+29,Airport BHX,Birmingham,Midlands
+30,Alum Rock,Birmingham,Midlands
+31,Cape Hill,Birmingham,Midlands
+32,Coventry Road,Birmingham,Midlands
+33,Fort Shopping Centre,Birmingham,Midlands
+34,Ladypool Road,Birmingham,Midlands
+35,Onestop Shopping Centre,Birmingham,Midlands
+36,Soho Road,Birmingham,Midlands
+37,StarCity,Birmingham,Midlands
+38,Stratford Road,Birmingham,Midlands
+39,Tyseley,Birmingham,Midlands
+40,East Park Road,Leicester,Midlands
+41,Evington Road,Leicester,Midlands
+42,Fosse Park,Leicester,Midlands
+43,Granby Street,Leicester,Midlands
+44,Melton Road,Leicester,Midlands
+45,Nedham Street,Leicester,Midlands
+46,Cheetham Hill,Manchester,North West
+47,Old Trafford,Manchester,North West
+48,Oxford Road,Manchester,North West
+49,Stockport Road,Manchester,North West
+50,Trafford Centre,Manchester,North West
+51,Express,Blackburn,North West
+52,Grimshaw Retail Park Drive-Thru,Blackburn,North West
+53,Mellor Brook Drive-Thru,Blackburn,North West
+54,Whalley Range,Blackburn,North West
+55,Great Horton Road,Bradford,Other
+56,Ingleby Road,Bradford,Other
+57,Leeds Road,Bradford,Other
+58,Airport,Luton,Other
+59,Central,Luton,Other
+60,Hatters Way Retail Park,Luton,Other
+61,Castle Boulevard,Nottingham,Other
+62,Gregory Boulevard,Nottingham,Other
+63,Victoria Centre,Nottingham,Other
+64,Deane Road,Bolton,North West
+65,Manchester Road (EGOTM Bolton),Bolton,North West
+66,George Street,Glasgow,Other
+67,The Quay,Glasgow,Other
+68,Lombardy Park,Hayes,London
+69,Station Road,Hayes,London
+70,Bold Street,Liverpool,North West
+71,Myrtle Parade,Liverpool,North West
+72,Central,Slough,Other
+73,Farnham Road,Slough,Other
+74,Aberdeen,Aberdeen,Other
+75,Aylesbury,Aylesbury,Other
+76,Batley,Batley,Other
+77,Bedford,Bedford,Other
+78,Brighton,Brighton,Other
+79,Bristol,Bristol,Other
+80,Burnley,Burnley,Other
+81,Cardiff,Cardiff,Other
+82,Colchester,Colchester,Other
+83,Coventry,Coventry,Midlands
+84,Crawley,Crawley,Other
+85,Derby,Derby,Other
+86,Dudley,Dudley,Other
+87,Dundee,Dundee,Other
+88,Edinburgh,Edinburgh,Other
+89,High Wycombe,High Wycombe,Other
+90,Huddersfield,Huddersfield,Other
+91,Leeds,Leeds,Other
+92,Milton Keynes,Milton Keynes,Other
+93,Newcastle,Newcastle,Other
+94,Northampton,Northampton,Other
+95,Norwich,Norwich,Other
+96,Oldham,Oldham,Other
+97,Oxford,Oxford,Other
+98,Peterborough,Peterborough,Other
+99,Portsmouth,Portsmouth,Other
+100,Preston,Preston,Other
+101,Reading,Reading,Other
+102,Rochdale,Rochdale,Other
+103,Rotherham,Rotherham,Other
+104,Sheffield,Sheffield,Other
+105,Southall,Southall,London
+106,Southampton,Southampton,Other
+107,Staines,Staines,Other
+108,Stoke-on-Trent,Stoke-on-Trent,Other
+109,Uxbridge,Uxbridge,London
+110,Walsall,Walsall,Other
+111,Watford,Watford,Other
+112,Watford Gap,Watford Gap,Other
+113,Woking,Woking,Other
+114,Wolverhampton,Wolverhampton,Other
