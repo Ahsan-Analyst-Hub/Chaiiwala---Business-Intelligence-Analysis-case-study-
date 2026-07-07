@@ -1,4 +1,4 @@
-## Chaiiwala -- Customer Experience Business Intelligence Platform & Feedback Integrity Platform **
+# Chaiiwala -- Customer Experience Business Intelligence Platform & Feedback Integrity Platform 
 
 ### Introduction
 
@@ -6,11 +6,11 @@ Chaiiwala is a UK-based Indian/Pakistani street food café chain (Coffee Shop), 
 
 ---
 
-## An End-to-End Business Intelligence Solution for Retail/café Customer Experience, Operational Performance & Data Quality Assurance
+### An End-to-End Business Intelligence Solution for Retail/café Customer Experience, Operational Performance & Data Quality Assurance
 
 ---
 
-# Executive Summary
+## Executive Summary
 
 Customer experience is one of the most important drivers of success within the Quick Service Restaurant (QSR) industry. Every interaction—from food quality and customer service to restaurant cleanliness and promotion awareness—influences customer loyalty, brand reputation and long-term profitability.
 
@@ -18,14 +18,14 @@ This project presents an end-to-end Business Intelligence solution designed to m
 
 Unlike traditional customer satisfaction dashboards, this solution introduces two complementary analytical frameworks:
 
-* **Customer Experience Intelligence**, which measures operational performance using a weighted Customer Experience Index (CXI).
-* **Customer Feedback Integrity**, which evaluates the quality, completeness and authenticity of customer feedback before it is used for decision-making.
+**Customer Experience Intelligence**, which measures operational performance using a weighted Customer Experience Index (CXI).
+**Customer Feedback Integrity**, which evaluates the quality, completeness and authenticity of customer feedback before it is used for decision-making.
 
 The solution enables management to identify operational issues, benchmark store performance, understand regional trends, detect potentially unreliable survey responses and prioritise improvement initiatives using data-driven insights.
 
 ---
 
-# Why Customer Feedback Matters
+## Why Customer Feedback Matters
 
 Customer feedback is one of the most valuable strategic assets available to any retail business. It provides direct insight into customer expectations, operational performance and overall brand perception.
 
@@ -43,7 +43,7 @@ However, customer feedback is only valuable if it is accurate, authentic and tru
 
 ---
 
-# Business Challenge
+## Business Challenge
 
 Multi-site retail organisations / café chain often receive thousands of customer feedback responses across different locations. While valuable, this information is frequently fragmented and difficult to analyse consistently.
 
@@ -73,7 +73,7 @@ Key business challenges include:
 
 ---
 
-# Project Objectives
+## Project Objectives
 
 The primary objective of this project is to develop a Business Intelligence platform capable of transforming customer feedback into actionable business intelligence while maintaining confidence in the quality of the underlying data.
 
@@ -91,11 +91,11 @@ The solution was designed to:
 
 ---
 
-# Solution Overview
+## Solution Overview
 
 The solution consists of two integrated analytical frameworks.
 
-## 1. Customer Experience Intelligence
+### 1. Customer Experience Intelligence
 
 Measures operational performance across six key customer experience categories:
 
@@ -110,7 +110,7 @@ These measures are combined into a weighted **Customer Experience Index (CXI)** 
 
 ---
 
-## 2. Customer Feedback Integrity
+### 2. Customer Feedback Integrity
 
 To improve confidence in management reporting, the platform evaluates customer feedback quality using several integrity indicators:
 
@@ -124,7 +124,7 @@ These measures help distinguish reliable customer feedback from responses that m
 
 ---
 
-# Technology Stack
+## Technology Stack
 
 | Layer                  | Technology                   |
 | ---------------------- | ---------------------------- |
@@ -137,7 +137,7 @@ These measures help distinguish reliable customer feedback from responses that m
 
 ---
 
-# Data Model
+## Data Model
 
 The solution follows a Star Schema design consisting of:
 
@@ -156,7 +156,7 @@ This model provides a scalable analytical structure capable of supporting operat
 
 ---
 
-# Dashboard Overview
+## Dashboard Overview
 
 The solution consists of seven interactive dashboard pages:
 
@@ -172,9 +172,9 @@ The solution consists of seven interactive dashboard pages:
 
 ---
 
-# Key Performance Indicators
+## Key Performance Indicators
 
-## Customer Experience KPIs
+### Customer Experience KPIs
 
 * Customer Experience Index (CXI)
 * Customer Service Score
@@ -189,7 +189,7 @@ The solution consists of seven interactive dashboard pages:
 
 ---
 
-## Data Quality & Integrity KPIs
+### Data Quality & Integrity KPIs
 
 * Data Trust Score
 * Survey Completion Rate
@@ -199,7 +199,7 @@ The solution consists of seven interactive dashboard pages:
 
 ---
 
-# Business Value
+## Business Value
 
 The platform enables management to:
 
@@ -214,7 +214,7 @@ The platform enables management to:
 
 ---
 
-# Future Enhancements
+## Future Enhancements
 
 Potential future developments include:
 
@@ -229,7 +229,7 @@ Potential future developments include:
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -246,14 +246,15 @@ This project demonstrates practical experience in:
 * Customer Experience Analytics
 * Data Quality & Integrity Monitoring
 * Business Intelligence Solution Design
+* Prompt Engnieering using AI
 
 ---
 
-# Author
+## Author
 
 **Ahsan ul Haq**
 
-**Project:** Chaiiwala Customer Experience Intelligence & Feedback Integrity Platform
+**Project:** Chaiiwala Customer Experience Business Intelligence & Feedback Integrity Platform
 
 **Purpose:** Independent Business Intelligence Portfolio Project
 
@@ -263,15 +264,12 @@ This project demonstrates practical experience in:
 
 ---
 
-## Author
-- Ahsan ul haq
-
 ## License
 - This project is intended for educational and portfolio purposes.
 
 ---
 
-## Disclaimer
+### Disclaimer
 
 > **This is an independent portfolio project created for demonstration purposes only.** The dashboard, data model, analytics solution and documentation were independently designed and developed by **Ahsan ul Haq**. The dataset used throughout this project is **synthetically generated** to simulate realistic retail operations and customer feedback and does **not** contain proprietary, confidential or internal business data from Chaiiwala. Chaiiwala has not commissioned, endorsed or reviewed this project.
 
