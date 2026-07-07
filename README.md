@@ -1,4 +1,5 @@
 # Chaiiwala -- Customer Experience Business Intelligence Platform & Feedback Integrity Platform 
+<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/c9e64919-4ca4-44a2-801e-66c7b357b0b9" />
 
 ### Introduction
 
@@ -7,6 +8,7 @@ Chaiiwala is a UK-based Indian/Pakistani street food café chain (Coffee Shop), 
 ---
 
 ### An End-to-End Business Intelligence Solution for Retail/café Customer Experience, Operational Performance & Data Quality Assurance
+<img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/a3618dec-c8c1-4215-a417-3d752fd4ba24" />
 
 ---
 
@@ -162,6 +164,7 @@ The solution consists of seven interactive dashboard pages:
 
 | Page                          | Business Purpose                                 |
 | ----------------------------- | ------------------------------------------------ |
+| Introduction                  | Introduction
 | Executive Overview            | Executive KPI monitoring                         |
 | Regional Intelligence         | Regional performance comparison                  |
 | Store Performance             | Individual store benchmarking                    |
@@ -171,6 +174,30 @@ The solution consists of seven interactive dashboard pages:
 | Executive Action Centre       | Prioritised management actions                   |
 
 ---
+### Dashboard 01 - Introduction
+<img width="1024" height="592" alt="Image" src="https://github.com/user-attachments/assets/1e39f681-1a22-4acd-bc0a-ec8b42134c5a" />
+
+### Dashboard 02 - Executive Overview
+<img width="1024" height="592" alt="Image" src="https://github.com/user-attachments/assets/3b93af75-371a-4e1d-9f5a-7706d1bb5e12" />
+
+### Dashboard 03 - Regional Intelligence
+<img width="1024" height="592" alt="Image" src="https://github.com/user-attachments/assets/704b4501-b0a0-46dc-9910-c2d5bb88b5e8" />
+
+### Dashboard 04 - Store Performance 
+<img width="1024" height="592" alt="Image" src="https://github.com/user-attachments/assets/d15019f7-c6d3-46d5-a23d-37b49331258b" />
+
+### Dashboard 05 - Root Cause Analysis
+<img width="1024" height="592" alt="Image" src="https://github.com/user-attachments/assets/3e723ba1-0311-473f-837e-494dc06ac9cb" />
+
+### Dashboard 06 - Revenue & Customer Experience 
+<img width="1024" height="592" alt="Image" src="https://github.com/user-attachments/assets/39472e10-a9ab-4594-8a5b-bb6e9989c93a" />
+
+### Dashboard 07 - Customer Behaviour
+<img width="1024" height="592" alt="Image" src="https://github.com/user-attachments/assets/086c21c7-a25e-46a7-9442-65bc15f9e4a7" />
+
+### Dashboard 08 - Executive Action Centre
+<img width="1024" height="592" alt="Image" src="https://github.com/user-attachments/assets/6bfb79d9-19c1-4c74-95d5-2184f12349a0" />
+
 
 ## Key Performance Indicators
 
