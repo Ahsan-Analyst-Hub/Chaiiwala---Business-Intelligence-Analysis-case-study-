@@ -1,4 +1,4 @@
-# Chaiiwala -- Customer Experience Business Intelligence Platform & Feedback Integrity Platform 
+# Chaiiwala - Customer Experience Business Intelligence Platform & Feedback Integrity Platform 
 <img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/c9e64919-4ca4-44a2-801e-66c7b357b0b9" />
 
 ### Introduction
