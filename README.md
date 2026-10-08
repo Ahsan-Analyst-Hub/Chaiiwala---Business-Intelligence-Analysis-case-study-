@@ -11,6 +11,10 @@ Chaiiwala is a UK-based Indian/Pakistani street food café chain (Coffee Shop), 
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7fb27869-117b-4caf-822c-3c79f80eb103" />
 
 ---
+### Disclaimer
+
+> **This is an independent portfolio project created for demonstration purposes only.** The dashboard, data model, analytics solution and documentation were independently designed and developed by **Ahsan ul Haq**. The dataset used throughout this project is **synthetically generated** to simulate realistic retail operations and customer feedback and does **not** contain proprietary, confidential or internal business data from Chaiiwala. Chaiiwala has not commissioned, endorsed or reviewed this project.
+---
 
 <img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/a3618dec-c8c1-4215-a417-3d752fd4ba24" />
 
@@ -300,9 +304,5 @@ This project demonstrates practical experience in:
 
 ---
 
-### Disclaimer
 
-> **This is an independent portfolio project created for demonstration purposes only.** The dashboard, data model, analytics solution and documentation were independently designed and developed by **Ahsan ul Haq**. The dataset used throughout this project is **synthetically generated** to simulate realistic retail operations and customer feedback and does **not** contain proprietary, confidential or internal business data from Chaiiwala. Chaiiwala has not commissioned, endorsed or reviewed this project.
-
----
 
