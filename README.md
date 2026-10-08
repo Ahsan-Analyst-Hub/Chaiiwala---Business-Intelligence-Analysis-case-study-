@@ -8,6 +8,10 @@ Chaiiwala is a UK-based Indian/Pakistani street food café chain (Coffee Shop), 
 ---
 
 ### An End-to-End Business Intelligence Solution for Retail/café Customer Experience, Operational Performance & Data Quality Assurance
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7fb27869-117b-4caf-822c-3c79f80eb103" />
+
+---
+
 <img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/a3618dec-c8c1-4215-a417-3d752fd4ba24" />
 
 ---
